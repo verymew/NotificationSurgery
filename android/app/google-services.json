@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463434272959",
+    "project_id": "coiso-7c7f3",
+    "storage_bucket": "coiso-7c7f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463434272959:android:fc8dbe28417a1c2e80f60a",
+        "android_client_info": {
+          "package_name": "com.coiso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCM1JbLaUbyLg1gsTuq2zh07P1CX6661A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463434272959:android:181bd0c5bb3a2f4380f60a",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCM1JbLaUbyLg1gsTuq2zh07P1CX6661A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
